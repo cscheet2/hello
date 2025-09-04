@@ -12,6 +12,9 @@ int main(void)
 {
   printf("Hello, I am Raegan.\n");
   printf("Major is Software Engineering!\n");
-    
+
+  printf("Hello, I am Lesly./n"); //Lesly's part
+  Printf("Major is Electrical Engineering!\n");
+
   return 0;
 }
